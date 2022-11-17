@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002439216658",
+    "project_id": "pamn-71daf",
+    "storage_bucket": "pamn-71daf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002439216658:android:4a97ec56a326959bb012cb",
+        "android_client_info": {
+          "package_name": "com.example.pamnanime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002439216658-0icvfjlk5k5iuq3sejrqv44o7748l3vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC3UfRpI3KF_nkyr7xxM8bv8TsPdp9zbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002439216658-0icvfjlk5k5iuq3sejrqv44o7748l3vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
